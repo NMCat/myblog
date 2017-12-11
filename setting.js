@@ -4,7 +4,7 @@
 //数据库配置信息
 module.exports = {
     cookieSecret:'cat',
-    db:'blog', //数据库的名称
+    db:'myblog', //数据库的名称
     host:'localhost',
     port:27017 //数据库的端口号
 }
